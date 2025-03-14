@@ -11,7 +11,7 @@ function handlePurchase() {
 
 function redirectToWhatsApp() {
     // Ganti nomor WhatsApp penjual di sini
-    const phoneNumber = "6281234567890"; // Contoh: 6281234567890
+    const phoneNumber = "6285167089251"; // Contoh: 6281234567890
     // Ganti pesan yang ingin dikirim
     const message = "Halo, saya ingin membeli produk ini.";
     // Membuat URL WhatsApp
